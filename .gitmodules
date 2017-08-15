@@ -4,3 +4,6 @@
 [submodule "udemy/lazyprogrammer/machine_learning_examples"]
 	path = udemy/lazyprogrammer/machine_learning_examples
 	url = https://github.com/lazyprogrammer/machine_learning_examples.git
+[submodule "udemy/zero_to_deep_learning_udemy/zero_to_deep_learning_udemy"]
+	path = udemy/zero_to_deep_learning_udemy/zero_to_deep_learning_udemy
+	url = https://github.com/Dataweekends/zero_to_deep_learning_udemy.git
