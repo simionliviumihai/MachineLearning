@@ -1,3 +1,6 @@
 [submodule "safari/handsonml/handson-ml"]
 	path = safari/handsonml/handson-ml
 	url = https://github.com/ageron/handson-ml.git
+[submodule "udemy/lazyprogrammer/machine_learning_examples"]
+	path = udemy/lazyprogrammer/machine_learning_examples
+	url = https://github.com/lazyprogrammer/machine_learning_examples.git
