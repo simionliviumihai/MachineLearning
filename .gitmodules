@@ -1,0 +1,3 @@
+[submodule "safari/handsonml/handson-ml"]
+	path = safari/handsonml/handson-ml
+	url = https://github.com/ageron/handson-ml.git
